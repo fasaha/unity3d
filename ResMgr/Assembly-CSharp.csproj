@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{B389C501-47D5-F2D0-8775-D9633C67CE3B}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_5_0;UNITY_4_5;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>D:/Program Files (x86)/Unity4.5.0/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>D:/Program Files (x86)/Unity4.5.0/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Fan\Plugins\MDebug.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\Adler32.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\AssemblyInfo.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\Deflate.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\InfBlocks.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\InfCodes.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\InfTree.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\Inflate.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\StaticTree.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\SupportClass.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\Tree.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\ZInputStream.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\ZOutputStream.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\ZStream.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\ZStreamException.cs" />
+     <Compile Include="Assets\Fan\Plugins\zlib\Zlib.cs" />
+     <Compile Include="Assets\Fan\ResMgr\Demo\ResMgrDemo.cs" />
+     <Compile Include="Assets\Fan\ResMgr\ManifestInfo.cs" />
+     <Compile Include="Assets\Fan\ResMgr\ResConf.cs" />
+     <Compile Include="Assets\Fan\ResMgr\ResLoader.cs" />
+     <Compile Include="Assets\Fan\ResMgr\ResMgr.cs" />
+     <Compile Include="Assets\Fan\ResMgr\ResPreload.cs" />
+     <Compile Include="Assets\Fan\ResMgr\ResUtil.cs" />
+     <Compile Include="Assets\Fan\Utils\ZipUtil.cs" />
+     <None Include="Assets\Fan\ResMgr\Demo\abres\config.zh-cn\bullet.xml" />
+     <None Include="Assets\Fan\ResMgr\Demo\abres\config.zh-cn\ai\monster\m_bt_1.xml" />
+     <None Include="Assets\Fan\ResMgr\Demo\abres\config.zh-cn\ai\monster\m_bt_2.xml" />
+     <None Include="Assets\Fan\ResMgr\Demo\abres\config.zh-cn\monster.xml" />
+ <Reference Include="MDebug">
+ <HintPath>D:/workspace/u3d/ResMgr/Assets/Fan/Plugins/MDebug.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

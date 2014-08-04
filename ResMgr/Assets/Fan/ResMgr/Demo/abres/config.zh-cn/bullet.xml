@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <bullets>
+    <bullet id="1" model="子弹红" speed="2" damage_radius="0" path ="1" trace="false"/>
+    <bullet id="2" model="子弹红" speed="5" damage_radius="2" path ="1" trace="false"/>
+    <bullet id="3" model="子弹红" speed="8" damage_radius="5" path ="1" trace="false"/>
+    <bullet id="4" model="子弹红" speed="12" damage_radius="10" path ="1" trace="false"/>
+  </bullets>
+</root>
