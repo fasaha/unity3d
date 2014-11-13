@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <server_ip>127.0.0.1</server_ip>
+  <server_port>8080</server_port>
+  <!--<res_base_path>http://kokres.fthgame.com/</res_base_path>-->
+  <res_base_path>https://github.com/fasaha/unity3d/raw/master/</res_base_path>
+  
+  <mani_fest_hash>ff62d30ae2e7f0259530235a7be3f6b8</mani_fest_hash>
+  <enable_log>True</enable_log>
+</root>
