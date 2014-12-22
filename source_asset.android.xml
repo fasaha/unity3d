@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <items>
-    <item sub_path="Assets/MggDesigner/abres/heroes/caocao_md_role_a.prefab" length="36705" md5_hash="89a2496a56164fbdcdaf01d2b5d8ce23" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/caocao_md_role_a.prefab.meta" length="95" md5_hash="715af84e38634d98a2c9d642a5897a32" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/caocao_md_role_b.prefab" length="36719" md5_hash="ef6296fcb04c124cdbf28cc388d41aaa" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/caocao_md_role_b.prefab.meta" length="95" md5_hash="5ccb1db442d49ef34587a88b926b702e" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/daqiao_md_role_a.prefab" length="38380" md5_hash="89dc60b26e13230093ea85a4349aef4e" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/daqiao_md_role_a.prefab.meta" length="95" md5_hash="f42f5815e05a1d9a0ac55929bf6a8918" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/daqiao_md_role_b.prefab" length="38458" md5_hash="3655386f379c1ae6a92f903843353465" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/daqiao_md_role_b.prefab.meta" length="95" md5_hash="b4def989984d4841ecc9df7d0bd874f7" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/diaochan_md_role_a.prefab" length="42372" md5_hash="845faa12610241920a3699e4aa27b79f" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/diaochan_md_role_a.prefab.meta" length="95" md5_hash="c9cb263bc765fb07c80cb3e5cf272cf0" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/diaochan_md_role_b.prefab" length="42406" md5_hash="11e890f24616f514270ce4ff15635e66" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/diaochan_md_role_b.prefab.meta" length="95" md5_hash="8bf1213cc0740f45239918f91f5ffd44" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/dongzhuo_md_role_a.prefab" length="38388" md5_hash="140effa2bac0d014c94b12277a0c69ae" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/dongzhuo_md_role_a.prefab.meta" length="95" md5_hash="66cd06f58f6eae0e0e588102ea5522c5" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/dongzhuo_md_role_b.prefab" length="38399" md5_hash="c0e068b57d17eaae21b6ea029bf04561" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/dongzhuo_md_role_b.prefab.meta" length="95" md5_hash="6be6837a3b40b52fba0f165285da010a" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/guanyinping_md_role_a.prefab" length="37735" md5_hash="6583b23d317ab89f9fc842791072a69b" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/guanyinping_md_role_a.prefab.meta" length="95" md5_hash="81431058f7ba666eb34d74dee0d73e23" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/guanyinping_md_role_b.prefab" length="37735" md5_hash="852e39e8496ea5558055528e88f61247" />
-    <item sub_path="Assets/MggDesigner/abres/heroes/guanyinping_md_role_b.prefab.meta" length="95" md5_hash="1a3250a47122f6d29cdc50762174d826" />
     <item sub_path="Assets/MggDesigner/abres/monsters/ceshi_md_role_a.prefab" length="36586" md5_hash="18459505f4a181c995c25e916f4633cd" />
     <item sub_path="Assets/MggDesigner/abres/monsters/ceshi_md_role_a.prefab.meta" length="95" md5_hash="73cbb145e3782e47cf6069da75f4e703" />
     <item sub_path="Assets/MggDesigner/abres/monsters/cike_md_role_a.prefab" length="32747" md5_hash="a821a1e0ac8630b43801779bc3131587" />
@@ -171,5 +151,25 @@
     <item sub_path="Assets/MggDesigner/abres/config/aaaa/advanced.csv.meta" length="93" md5_hash="59f493ab6726af61906b3a5c1460d471" />
     <item sub_path="Assets/MggDesigner/abres/config.en_us/uiwords.csv" length="128" md5_hash="4badb8fe1fdba56ea2ea8c162ebca25f" />
     <item sub_path="Assets/MggDesigner/abres/config.en_us/uiwords.csv.meta" length="93" md5_hash="5264b0451c14260748b3e17ecb7586f9" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/caocao_md_role_a.prefab" length="36705" md5_hash="89a2496a56164fbdcdaf01d2b5d8ce23" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/caocao_md_role_a.prefab.meta" length="95" md5_hash="715af84e38634d98a2c9d642a5897a32" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/caocao_md_role_b.prefab" length="36719" md5_hash="ef6296fcb04c124cdbf28cc388d41aaa" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/caocao_md_role_b.prefab.meta" length="95" md5_hash="5ccb1db442d49ef34587a88b926b702e" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/daqiao_md_role_a.prefab" length="38380" md5_hash="89dc60b26e13230093ea85a4349aef4e" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/daqiao_md_role_a.prefab.meta" length="95" md5_hash="f42f5815e05a1d9a0ac55929bf6a8918" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/daqiao_md_role_b.prefab" length="38458" md5_hash="3655386f379c1ae6a92f903843353465" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/daqiao_md_role_b.prefab.meta" length="95" md5_hash="b4def989984d4841ecc9df7d0bd874f7" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/diaochan_md_role_a.prefab" length="42372" md5_hash="845faa12610241920a3699e4aa27b79f" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/diaochan_md_role_a.prefab.meta" length="95" md5_hash="c9cb263bc765fb07c80cb3e5cf272cf0" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/diaochan_md_role_b.prefab" length="42406" md5_hash="11e890f24616f514270ce4ff15635e66" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/diaochan_md_role_b.prefab.meta" length="95" md5_hash="8bf1213cc0740f45239918f91f5ffd44" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/dongzhuo_md_role_a.prefab" length="38388" md5_hash="140effa2bac0d014c94b12277a0c69ae" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/dongzhuo_md_role_a.prefab.meta" length="95" md5_hash="66cd06f58f6eae0e0e588102ea5522c5" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/dongzhuo_md_role_b.prefab" length="38399" md5_hash="c0e068b57d17eaae21b6ea029bf04561" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/dongzhuo_md_role_b.prefab.meta" length="95" md5_hash="6be6837a3b40b52fba0f165285da010a" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/guanyinping_md_role_a.prefab" length="37735" md5_hash="6583b23d317ab89f9fc842791072a69b" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/guanyinping_md_role_a.prefab.meta" length="95" md5_hash="81431058f7ba666eb34d74dee0d73e23" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/guanyinping_md_role_b.prefab" length="37735" md5_hash="852e39e8496ea5558055528e88f61247" />
+    <item sub_path="Assets/MggDesigner/abres/heroes/guanyinping_md_role_b.prefab.meta" length="95" md5_hash="1a3250a47122f6d29cdc50762174d826" />
   </items>
 </root>
