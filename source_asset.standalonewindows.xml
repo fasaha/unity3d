@@ -31,10 +31,6 @@
     <item sub_path="Assets/MggDesigner/abres/weapons/axec2_wp.prefab.meta" length="95" md5_hash="41f7f6f398c3d5204df5256675e0e241" />
     <item sub_path="Assets/MggDesigner/abres/weapons/bowa1_wp.prefab" length="4372" md5_hash="4a8cbd24e1fb82dabb15be33b901e267" />
     <item sub_path="Assets/MggDesigner/abres/weapons/bowa1_wp.prefab.meta" length="95" md5_hash="e9ed81e1747acfb1b686b860ffe4e54e" />
-    <item sub_path="Assets/MggDesigner/abres/uiatlas/equip_1.prefab" length="7118" md5_hash="a2c87c7b0f96a6c878f5b18779ea12ca" />
-    <item sub_path="Assets/MggDesigner/abres/uiatlas/equip_1.prefab.meta" length="95" md5_hash="412542ca2744b8a576476e9527cae9cc" />
-    <item sub_path="Assets/MggDesigner/abres/uiatlas/Main.prefab" length="17642" md5_hash="863ef49318a93d9c576642571c547ae2" />
-    <item sub_path="Assets/MggDesigner/abres/uiatlas/Main.prefab.meta" length="95" md5_hash="c3be6433b7f8f5d5f1551c0b25c772b8" />
     <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_attack.mp3" length="5667" md5_hash="07afddebab2f7023904bb8b14a5d4798" />
     <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_attack.mp3.meta" length="205" md5_hash="ba4c5f874e1d121028e8865ca74ee507" />
     <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_death.mp3" length="13818" md5_hash="3c795127786dc18a7c2f4d000a22c3b3" />
@@ -171,5 +167,9 @@
     <item sub_path="Assets/MggDesigner/abres/heroes/guanyinping_md_role_a.prefab.meta" length="95" md5_hash="81431058f7ba666eb34d74dee0d73e23" />
     <item sub_path="Assets/MggDesigner/abres/heroes/guanyinping_md_role_b.prefab" length="37735" md5_hash="852e39e8496ea5558055528e88f61247" />
     <item sub_path="Assets/MggDesigner/abres/heroes/guanyinping_md_role_b.prefab.meta" length="95" md5_hash="1a3250a47122f6d29cdc50762174d826" />
+    <item sub_path="Assets/MggDesigner/abres/uiatlas/equip_1.prefab" length="7118" md5_hash="a2c87c7b0f96a6c878f5b18779ea12ca" />
+    <item sub_path="Assets/MggDesigner/abres/uiatlas/equip_1.prefab.meta" length="95" md5_hash="412542ca2744b8a576476e9527cae9cc" />
+    <item sub_path="Assets/MggDesigner/abres/uiatlas/Main.prefab" length="17642" md5_hash="863ef49318a93d9c576642571c547ae2" />
+    <item sub_path="Assets/MggDesigner/abres/uiatlas/Main.prefab.meta" length="95" md5_hash="c3be6433b7f8f5d5f1551c0b25c772b8" />
   </items>
 </root>
