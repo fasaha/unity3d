@@ -1,10 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <root>
 	<server_list_url>http://61.174.12.216/tgs_serverlist/serverlist.php</server_list_url>
-	<!--<res_base_path>http://kokres.fthgame.com/</res_base_path>-->
 	<res_base_path>https://github.com/fasaha/unity3d/raw/master/</res_base_path>
-  
-	<mani_fest_hash>ff62d30ae2e7f0259530235a7be3f6b8</mani_fest_hash>
+	<mani_fest_hash>3e756f4412881618c8ffec3ae44b4ec2</mani_fest_hash>
 	<enable_log>True</enable_log>
 	<notice_title>MGG游戏公告</notice_title>
 	<notice_content>亲爱的玩家，您好：为了让玩家更好的感受为了让玩家更好的感受为了让玩家更好的感受为了让玩家更好的感受为了让玩家更好的感受为了让玩家更好的感受为了让玩家更好的感受为了让玩家更好的感受为了让玩家更好的感受为了让玩家更好的感受为了让玩家更好的感受为了让玩家更好的感受为了让玩家更好的感受</notice_content>

@@ -1,44 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <items>
-    <item sub_path="Assets/MggDesigner/abres/monsters/ceshi_md_role_a.prefab" length="36586" md5_hash="18459505f4a181c995c25e916f4633cd" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/ceshi_md_role_a.prefab.meta" length="95" md5_hash="73cbb145e3782e47cf6069da75f4e703" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/cike_md_role_a.prefab" length="32747" md5_hash="a821a1e0ac8630b43801779bc3131587" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/cike_md_role_a.prefab.meta" length="95" md5_hash="f3e0f35993ca67e03d25e8c860f9082d" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/dadaodunkulou_md_role_a.prefab" length="37566" md5_hash="5e0c5cd8e784f993509b3bf10bd90e30" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/dadaodunkulou_md_role_a.prefab.meta" length="95" md5_hash="2ae2e28125597170dd316cc004a9e8c1" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/fashikulou_md_role_a.prefab" length="41544" md5_hash="469d6c4e54df1aa07a648277b5b07286" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/fashikulou_md_role_a.prefab.meta" length="95" md5_hash="7fa78b2057fd193c2ddd4fcbce8d96cd" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/gongbing_md_role_a.prefab" length="32860" md5_hash="6b5caebcd1d31ed299ba13d65008fd73" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/gongbing_md_role_a.prefab.meta" length="95" md5_hash="ac25d783b2961192f6bf40b628d637b4" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/gongjiankulou_md_role_a.prefab" length="33562" md5_hash="07b5e514e7f30ad1d68d5b2ed6fb6c82" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/gongjiankulou_md_role_a.prefab.meta" length="95" md5_hash="80ed05582da655c744fe2763ed4ed48b" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/hubendaobing_md_role_a.prefab" length="32672" md5_hash="4c1802bfeefbca30028dd5c039761d98" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/hubendaobing_md_role_a.prefab.meta" length="95" md5_hash="5b629d60e5aa530d2daad363ebc5d188" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/jinweijun_md_role_a.prefab" length="31886" md5_hash="28f012ffa348418c9ad1ed5365e1bbc9" />
-    <item sub_path="Assets/MggDesigner/abres/monsters/jinweijun_md_role_a.prefab.meta" length="95" md5_hash="f9d4a254d918bf111c9695dd6dd5c501" />
-    <item sub_path="Assets/MggDesigner/abres/weapons/axea1_wp.prefab" length="4372" md5_hash="b01af48316a49c47231cf12778cef0b8" />
-    <item sub_path="Assets/MggDesigner/abres/weapons/axea1_wp.prefab.meta" length="95" md5_hash="fb63de055445e1d3d7608126a26de0c3" />
-    <item sub_path="Assets/MggDesigner/abres/weapons/axea2_wp.prefab" length="4372" md5_hash="8c81afa2a7f7d5be92aa15d268cdc049" />
-    <item sub_path="Assets/MggDesigner/abres/weapons/axea2_wp.prefab.meta" length="95" md5_hash="f9a1369aa541648d9efdd00c0f8827dd" />
-    <item sub_path="Assets/MggDesigner/abres/weapons/axeb1_wp.prefab" length="4372" md5_hash="950640f6fc990a4e07c27740a1944075" />
-    <item sub_path="Assets/MggDesigner/abres/weapons/axeb1_wp.prefab.meta" length="95" md5_hash="2c1643eb123e31f7c4f28cc22501751f" />
-    <item sub_path="Assets/MggDesigner/abres/weapons/axeb2_wp.prefab" length="4372" md5_hash="13e519f630ac11e30405391ae1f9452e" />
-    <item sub_path="Assets/MggDesigner/abres/weapons/axeb2_wp.prefab.meta" length="95" md5_hash="0a41d9396e6cfb990f30dc40b5445b23" />
-    <item sub_path="Assets/MggDesigner/abres/weapons/axec1_wp.prefab" length="4372" md5_hash="de9ecb084fa7bcfb573ae2a562da3784" />
-    <item sub_path="Assets/MggDesigner/abres/weapons/axec1_wp.prefab.meta" length="95" md5_hash="0d9dff4a0ee18f22990bf176f326e555" />
-    <item sub_path="Assets/MggDesigner/abres/weapons/axec2_wp.prefab" length="4372" md5_hash="aed1440f76da4560a43a011a18235b19" />
-    <item sub_path="Assets/MggDesigner/abres/weapons/axec2_wp.prefab.meta" length="95" md5_hash="41f7f6f398c3d5204df5256675e0e241" />
-    <item sub_path="Assets/MggDesigner/abres/weapons/bowa1_wp.prefab" length="4372" md5_hash="4a8cbd24e1fb82dabb15be33b901e267" />
-    <item sub_path="Assets/MggDesigner/abres/weapons/bowa1_wp.prefab.meta" length="95" md5_hash="e9ed81e1747acfb1b686b860ffe4e54e" />
-    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_attack.mp3" length="5667" md5_hash="07afddebab2f7023904bb8b14a5d4798" />
-    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_attack.mp3.meta" length="205" md5_hash="ba4c5f874e1d121028e8865ca74ee507" />
-    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_death.mp3" length="13818" md5_hash="3c795127786dc18a7c2f4d000a22c3b3" />
-    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_death.mp3.meta" length="205" md5_hash="cebaea0dc65e119816bb4270f8dbe6b7" />
-    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_hit.mp3" length="5041" md5_hash="ae8b2655b472f2e5dcd79e909a3de410" />
-    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_hit.mp3.meta" length="205" md5_hash="0e4c49a80f1e617ac003703fdf5747ea" />
-    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female02_attack.mp3" length="3578" md5_hash="545cc9d9179bee0fa21cce18e55a2fc0" />
-    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female02_attack.mp3.meta" length="205" md5_hash="54f6dff425654aa3c9a08cf0c0413b1c" />
     <item sub_path="Assets/MggDesigner/abres/config/advanced.csv" length="3087" md5_hash="c3668a53d4897bf4dba595eda3a60da6" />
     <item sub_path="Assets/MggDesigner/abres/config/advanced.csv.meta" length="93" md5_hash="331d0d7b5816bb716e5309dfa734da4d" />
     <item sub_path="Assets/MggDesigner/abres/config/atlas.csv" length="372" md5_hash="8cdfbe4732fe45e4882f8c5fa8f4166a" />
@@ -167,10 +129,6 @@
     <item sub_path="Assets/MggDesigner/abres/heroes/guanyinping_md_role_a.prefab.meta" length="95" md5_hash="81431058f7ba666eb34d74dee0d73e23" />
     <item sub_path="Assets/MggDesigner/abres/heroes/guanyinping_md_role_b.prefab" length="37675" md5_hash="cd300bbce2af03604f8a001f4fb0d30e" />
     <item sub_path="Assets/MggDesigner/abres/heroes/guanyinping_md_role_b.prefab.meta" length="95" md5_hash="1a3250a47122f6d29cdc50762174d826" />
-    <item sub_path="Assets/MggDesigner/abres/uiatlas/equip_1.prefab" length="7118" md5_hash="a2c87c7b0f96a6c878f5b18779ea12ca" />
-    <item sub_path="Assets/MggDesigner/abres/uiatlas/equip_1.prefab.meta" length="95" md5_hash="412542ca2744b8a576476e9527cae9cc" />
-    <item sub_path="Assets/MggDesigner/abres/uiatlas/Main.prefab" length="18580" md5_hash="a80bd6309d0ef0a806d47b9e71a7adf9" />
-    <item sub_path="Assets/MggDesigner/abres/uiatlas/Main.prefab.meta" length="95" md5_hash="5ae8a5b906d89dc1dcb228e96a44ebd7" />
     <item sub_path="Assets/MggDesigner/abres/heroes/guanyu_md_role_a.prefab" length="32042" md5_hash="de4f0e490b5924d004ba81222c57bb6b" />
     <item sub_path="Assets/MggDesigner/abres/heroes/guanyu_md_role_a.prefab.meta" length="95" md5_hash="23001075d5ba418ce482043066020461" />
     <item sub_path="Assets/MggDesigner/abres/heroes/huanggai_md_role_a.prefab" length="33741" md5_hash="0ed175a796785ed23e693ff0e50f4aad" />
@@ -181,5 +139,47 @@
     <item sub_path="Assets/MggDesigner/abres/heroes/huangzhong_md_role_a.prefab.meta" length="95" md5_hash="5781cc4ed8635a117fdd86f0d79ce8a8" />
     <item sub_path="Assets/MggDesigner/abres/heroes/huangzhong_md_role_b.prefab" length="32008" md5_hash="56d706ef0430e8f595657bd4693b967c" />
     <item sub_path="Assets/MggDesigner/abres/heroes/huangzhong_md_role_b.prefab.meta" length="95" md5_hash="81c969497041dcf2e1c8fc63287d157f" />
+    <item sub_path="Assets/MggDesigner/abres/uiatlas/equip_1.prefab" length="7118" md5_hash="a2c87c7b0f96a6c878f5b18779ea12ca" />
+    <item sub_path="Assets/MggDesigner/abres/uiatlas/equip_1.prefab.meta" length="95" md5_hash="412542ca2744b8a576476e9527cae9cc" />
+    <item sub_path="Assets/MggDesigner/abres/uiatlas/Main.prefab" length="18580" md5_hash="a80bd6309d0ef0a806d47b9e71a7adf9" />
+    <item sub_path="Assets/MggDesigner/abres/uiatlas/Main.prefab.meta" length="95" md5_hash="5ae8a5b906d89dc1dcb228e96a44ebd7" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/ceshi_md_role_a.prefab" length="36586" md5_hash="18459505f4a181c995c25e916f4633cd" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/ceshi_md_role_a.prefab.meta" length="95" md5_hash="73cbb145e3782e47cf6069da75f4e703" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/cike_md_role_a.prefab" length="32747" md5_hash="a821a1e0ac8630b43801779bc3131587" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/cike_md_role_a.prefab.meta" length="95" md5_hash="f3e0f35993ca67e03d25e8c860f9082d" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/dadaodunkulou_md_role_a.prefab" length="37566" md5_hash="5e0c5cd8e784f993509b3bf10bd90e30" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/dadaodunkulou_md_role_a.prefab.meta" length="95" md5_hash="2ae2e28125597170dd316cc004a9e8c1" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/fashikulou_md_role_a.prefab" length="41544" md5_hash="469d6c4e54df1aa07a648277b5b07286" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/fashikulou_md_role_a.prefab.meta" length="95" md5_hash="7fa78b2057fd193c2ddd4fcbce8d96cd" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/gongbing_md_role_a.prefab" length="32860" md5_hash="6b5caebcd1d31ed299ba13d65008fd73" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/gongbing_md_role_a.prefab.meta" length="95" md5_hash="ac25d783b2961192f6bf40b628d637b4" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/gongjiankulou_md_role_a.prefab" length="33562" md5_hash="07b5e514e7f30ad1d68d5b2ed6fb6c82" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/gongjiankulou_md_role_a.prefab.meta" length="95" md5_hash="80ed05582da655c744fe2763ed4ed48b" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/hubendaobing_md_role_a.prefab" length="32672" md5_hash="4c1802bfeefbca30028dd5c039761d98" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/hubendaobing_md_role_a.prefab.meta" length="95" md5_hash="5b629d60e5aa530d2daad363ebc5d188" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/jinweijun_md_role_a.prefab" length="31886" md5_hash="28f012ffa348418c9ad1ed5365e1bbc9" />
+    <item sub_path="Assets/MggDesigner/abres/monsters/jinweijun_md_role_a.prefab.meta" length="95" md5_hash="f9d4a254d918bf111c9695dd6dd5c501" />
+    <item sub_path="Assets/MggDesigner/abres/weapons/axea1_wp.prefab" length="4372" md5_hash="b01af48316a49c47231cf12778cef0b8" />
+    <item sub_path="Assets/MggDesigner/abres/weapons/axea1_wp.prefab.meta" length="95" md5_hash="fb63de055445e1d3d7608126a26de0c3" />
+    <item sub_path="Assets/MggDesigner/abres/weapons/axea2_wp.prefab" length="4372" md5_hash="8c81afa2a7f7d5be92aa15d268cdc049" />
+    <item sub_path="Assets/MggDesigner/abres/weapons/axea2_wp.prefab.meta" length="95" md5_hash="f9a1369aa541648d9efdd00c0f8827dd" />
+    <item sub_path="Assets/MggDesigner/abres/weapons/axeb1_wp.prefab" length="4372" md5_hash="950640f6fc990a4e07c27740a1944075" />
+    <item sub_path="Assets/MggDesigner/abres/weapons/axeb1_wp.prefab.meta" length="95" md5_hash="2c1643eb123e31f7c4f28cc22501751f" />
+    <item sub_path="Assets/MggDesigner/abres/weapons/axeb2_wp.prefab" length="4372" md5_hash="13e519f630ac11e30405391ae1f9452e" />
+    <item sub_path="Assets/MggDesigner/abres/weapons/axeb2_wp.prefab.meta" length="95" md5_hash="0a41d9396e6cfb990f30dc40b5445b23" />
+    <item sub_path="Assets/MggDesigner/abres/weapons/axec1_wp.prefab" length="4372" md5_hash="de9ecb084fa7bcfb573ae2a562da3784" />
+    <item sub_path="Assets/MggDesigner/abres/weapons/axec1_wp.prefab.meta" length="95" md5_hash="0d9dff4a0ee18f22990bf176f326e555" />
+    <item sub_path="Assets/MggDesigner/abres/weapons/axec2_wp.prefab" length="4372" md5_hash="aed1440f76da4560a43a011a18235b19" />
+    <item sub_path="Assets/MggDesigner/abres/weapons/axec2_wp.prefab.meta" length="95" md5_hash="41f7f6f398c3d5204df5256675e0e241" />
+    <item sub_path="Assets/MggDesigner/abres/weapons/bowa1_wp.prefab" length="4372" md5_hash="4a8cbd24e1fb82dabb15be33b901e267" />
+    <item sub_path="Assets/MggDesigner/abres/weapons/bowa1_wp.prefab.meta" length="95" md5_hash="e9ed81e1747acfb1b686b860ffe4e54e" />
+    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_attack.mp3" length="5667" md5_hash="07afddebab2f7023904bb8b14a5d4798" />
+    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_attack.mp3.meta" length="205" md5_hash="ba4c5f874e1d121028e8865ca74ee507" />
+    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_death.mp3" length="13818" md5_hash="3c795127786dc18a7c2f4d000a22c3b3" />
+    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_death.mp3.meta" length="205" md5_hash="cebaea0dc65e119816bb4270f8dbe6b7" />
+    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_hit.mp3" length="5041" md5_hash="ae8b2655b472f2e5dcd79e909a3de410" />
+    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female01_hit.mp3.meta" length="205" md5_hash="0e4c49a80f1e617ac003703fdf5747ea" />
+    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female02_attack.mp3" length="3578" md5_hash="545cc9d9179bee0fa21cce18e55a2fc0" />
+    <item sub_path="Assets/MggDesigner/abres/sound/words_talk/female02_attack.mp3.meta" length="205" md5_hash="54f6dff425654aa3c9a08cf0c0413b1c" />
   </items>
 </root>
