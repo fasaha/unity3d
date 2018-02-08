@@ -1,0 +1,7 @@
+ver;6
+dependence.png;1069;10001;9d627097883de924ee1b6ea9ce2db60c;
+i18n_default/lua.png;2305;10010;c4ab74c8f0598d1832cc5f0ca5525630;i18n_default/lua/base/Languageaaaaaaaaaaaa;
+i18n_default/ui/component.png;1311769;0;fcc761d8a48445e30271061c0a49d609;i18n_default/ui/component/confirm_view;i18n_default/ui/component/alert_ctrl_c;i18n_default/ui/component/loading_view;i18n_default/ui/component/alert_ctrl_b;i18n_default/ui/component/alert_ctrl_a;i18n_default/ui/component/web_fullscreen_view;i18n_default/ui/component/mask_view;i18n_default/ui/component/web_view;i18n_default/ui/component/alert_ani_b;i18n_default/ui/component/help_view;i18n_default/ui/component/alert_view;i18n_default/ui/component/alert_ani_a;i18n_default/ui/component/alert_ani_c;
+i18n_default/ui/login.png;1300788;0;4a794f32aef8d0a580191d15f8f28a16;i18n_default/ui/login/third_part_login_view;i18n_default/ui/login/abc;
+i18n_default/uiatlas/base.png;15597;9980;a6f2eff02f65b59cc5044c60338954b2;i18n_default/uiatlas/base/btn_help;i18n_default/uiatlas/base/btn_close;i18n_default/uiatlas/base/bg_mgo_white;i18n_default/uiatlas/base/btn_1_3;i18n_default/uiatlas/base/bg_mgo_0;
+i18n_zhcn/ui/login.png;2492;0;9fbbf56476d7186ea92c35122e4b5ef8;i18n_zhcn/ui/login/abc;
